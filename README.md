@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Aarav (aka Guddu)
+# 👋 Hey, I'm Aarav
 
 🚀 **Backend Engineer | FastAPI | Python Async | Security-First Developer**
 
