@@ -24,7 +24,6 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://stats.vercel.app/api?username=Aaravsaraf2026)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aaravsaraf&theme=tokyonight)
 
